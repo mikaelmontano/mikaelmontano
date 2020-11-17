@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning **VueJS, NuxtJS, SASS**
+🌱 Currently learning **VueJS, NuxtJS, SASS**
 
 ### Technology Stack
 
